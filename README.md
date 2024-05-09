@@ -10,7 +10,7 @@
 
 Note: This dataset contains data between 11th March 2020 and 06th March 2023.
 As per the dataset,
-* Maximum number of individuals laid of from a company is 12000(Google).
+* Maximum number of individuals laid off from a company is 12000(Google).
 * Britishvolt raised 2400 million dollars after which the company completely shut down.
 * Amazon laid off a total of 18150 individuals(Highest).
 * The consumer industry was affected the most as it had a sum of 45182 individuals laid off.
