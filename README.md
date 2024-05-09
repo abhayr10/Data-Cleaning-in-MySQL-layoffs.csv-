@@ -7,6 +7,7 @@
 
 
 **Exploratory Data Analysis**
+
 Note: This dataset contains data between 11th March 2020 and 06th March 2023.
 As per the dataset,
 * Maximum number of individuals laid of from a company is 12000(Google).
