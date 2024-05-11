@@ -27,7 +27,7 @@ industry, total_laid_off,percentage_laid_off,'date',
 stage, country, funds_raised_millions);
 
 
--- Creating duplicate_cte to chcek the duplicates using row_number()
+-- Creating duplicate_cte to check the duplicates using row_number()
 WITH duplicate_cte AS
 (
 SELECT *,
